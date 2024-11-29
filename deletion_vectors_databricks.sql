@@ -1,4 +1,9 @@
 -- Databricks notebook source
+-- MAGIC %md 
+-- MAGIC ### deletion vectors with git integration
+
+-- COMMAND ----------
+
 show databases
 
 -- COMMAND ----------
