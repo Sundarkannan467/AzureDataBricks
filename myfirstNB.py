@@ -3,3 +3,6 @@
 # MAGIC select 1
 # MAGIC union all
 # MAGIC select 2
+# MAGIC union all
+# MAGIC select 3
+# MAGIC
